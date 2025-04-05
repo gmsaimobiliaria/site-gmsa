@@ -1,0 +1,1 @@
+<coloque o conteúdo do arquivo index.tsx aqui>
